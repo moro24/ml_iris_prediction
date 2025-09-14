@@ -43,8 +43,8 @@ To ensure a clean and reproducible environment, it is highly recommended to use 
 
 First, clone this repository to your local machine using Git:
 ```bash
-git clone <your-repository-url>
-cd <repository-folder-name>
+git clone git@github.com:moro24/ml_iris_prediction.git
+cd ml_iris_prediction
 ```
 
 **2. Create a `requirements.txt` file**
